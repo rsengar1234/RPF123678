@@ -1,3 +1,4 @@
+﻿
 {
     "College": "Indian Institute of Technology, Delhi.",
     "Department": "Applied Mechanics",
@@ -578,4 +579,8 @@
     "Department": "Chemistry",
     "Professors": "Tanmay Dutta"
 },
-
+{
+    "College": "",
+    "Department": "Chemistry",
+    "Professors": "Tarak Karmakar"
+}
