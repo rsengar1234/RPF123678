@@ -2,4 +2,9 @@
   "Name":"Rohit",
   "Class":30,
   "Age":"Don't know"
+},
+{ 
+  "Name": "Sengar",
+  "Class":25,
+  "Age":"This time I know"
 }
