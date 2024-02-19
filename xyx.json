@@ -1,1 +1,5 @@
-'{"Name":"Rohit", "Class":30, "Age":"Don't know"}'
+{
+  "Name":"Rohit",
+  "Class":30,
+  "Age":"Don't know"
+}
