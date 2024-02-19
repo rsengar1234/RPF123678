@@ -1,4 +1,4 @@
-X = [
+[
         {
             "College": "Indian Institute of Technology, Delhi.",
             "Department": "Applied Mechanics",
@@ -584,4 +584,4 @@ X = [
             "Department": "Chemistry",
             "Professors": "Tarak Karmakar"
         }
-    ]
+]
